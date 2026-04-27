@@ -1,8 +1,7 @@
 ## Hey 👋, This is Nick Wright
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickw175@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Wright-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholaspaulwright)
-[![GitHub](https://img.shields.io/badge/GitHub-nwri722-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nwri722)
+[![Gmail Badge](https://img.shields.io/badge/-nickw175@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nickw175@gmail.com)](mailto:nickw175@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-nicholaspaulwright-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholaspaulwright/)](https://www.linkedin.com/in/nicholaspaulwright/) [![Github Badge](https://img.shields.io/badge/-nwri722-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nwri722/)](https://www.github.com/nwri722/) <p align='left'>
 
 ## About
 
