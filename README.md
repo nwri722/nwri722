@@ -1,5 +1,5 @@
 # Hi, I'm Nick Wright 👋
-[![Gmail Badge](https://img.shields.io/badge/-nicholaspwright@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nicholaspwright@outlook.com)](mailto:nicholaspwright@outlook.com) 
+[![Outlook](https://img.shields.io/badge/Outlook-Contact_Me-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:nicholaspwright@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nicholaspaulwright-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholaspaulwright/)](https://www.linkedin.com/in/nicholaspaulwright/) [![Github Badge](https://img.shields.io/badge/-nwri722-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nwri722/)](https://www.github.com/nwri722/) <p align='left'>
 
 ## About
