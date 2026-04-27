@@ -41,10 +41,9 @@ Analyzed Shopify and GA4 data to identify growth opportunities, improve digital 
 
 🏕️ I recently hiked to **Havasupai Falls** in Arizona.
 
-[![View My Hike](./assets/havasupai.jpg)](./assets/havasupai.jpg)
+[![🏞️ Havasupai Falls](./1.jpg)](./1.jpg)
 
-🍳 Currently working on leveling up my cooking skills one meal at a time.
-
+🍳 Currently improving my cooking skills one meal at a time.
 ---
 
 ## Top Skills
