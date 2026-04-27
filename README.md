@@ -1,6 +1,15 @@
 # Hi, I'm Nick Wright 👋
-[![Outlook](https://img.shields.io/badge/Outlook-Contact_Me-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:nicholaspwright@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-nicholaspaulwright-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholaspaulwright/)](https://www.linkedin.com/in/nicholaspaulwright/) [![Github Badge](https://img.shields.io/badge/-nwri722-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nwri722/)](https://www.github.com/nwri722/) <p align='left'>
+<p align="left">
+  <a href="mailto:nicholaspwright@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nicholaspaulwright">
+    <img src="https://img.shields.io/badge/LinkedIn-Nick%20Wright-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nwri722">
+    <img src="https://img.shields.io/badge/GitHub-nwri722-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## About
 
