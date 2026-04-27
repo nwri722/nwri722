@@ -38,14 +38,13 @@ Analyzed Shopify and GA4 data to identify growth opportunities, improve digital 
 ## Beyond Data
 
 🏊‍♂️ I enjoy swimming, backpacking, and spending time outdoors.
+
 🏕️ I recently hiked to **Havasupai Falls** in Arizona.
 
 <p align="center">
   <img src="./1.jpg" width="450"/>
 </p>
 
-
-🍳 Currently improving my cooking skills one meal at a time.
 ---
 
 ## Top Skills
