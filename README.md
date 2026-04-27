@@ -1,43 +1,57 @@
-## Hey 👋, I'm Nick Wright, a Business Intelligence Analyst
-[![Email](https://img.shields.io/badge/Email-nicholaspwright@outlook.com-red?style=for-the-badge&logo=gmail)](mailto:nicholaspwright@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-nicholaspaulwright-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholaspaulwright/)](https://www.linkedin.com/in/nicholaspaulwright/) [![Github Badge](https://img.shields.io/badge/-nwri722-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nwri722/)](https://www.github.com/nwri722/) <p align='left'>Hi there 👋 I'm Nick Wright
+# Hi, I'm Nick Wright 👋
 
-I build data-driven systems that turn raw information into clear insights and measurable business results. My focus is helping organizations understand what’s working, what isn’t, and where to focus next through analytics, dashboards, and structured problem-solving.
+## About
 
-🎓 Currently studying Business Intelligence Analytics at TripleTen, where I develop end-to-end analytics solutions using:
+📊 I build data-driven systems that make performance visible—and decisions clear.
 
-SQL – querying, transformation, and data modeling
-Power BI – interactive dashboards and KPI reporting
-Tableau – data storytelling and executive reporting
-Excel / Spreadsheets – business analysis and forecasting
-What I Do
+📈 I help businesses understand what’s working, what’s not, and where to focus through analytics, dashboards, and structured problem-solving.
 
-✔ Clean and transform messy datasets into reliable reporting systems
-✔ Build dashboards that support real business decisions
-✔ Analyze trends, KPIs, and operational performance
-✔ Translate business needs into actionable insights
-✔ Use structured thinking to solve problems efficiently
+🎓 Currently training in Business Intelligence Analytics at TripleTen, where I develop end-to-end analytics solutions using SQL, Python, Power BI, and Tableau—building clean data models, interactive dashboards, and reports designed for real business decisions.
 
-Featured Projects
+💼 With a background in financial services and technical support, I bring analytical rigor alongside a stakeholder-first mindset, ensuring insights are not only accurate, but actionable.
 
-📊 Sales Performance Dashboard
-📈 Customer Retention Analysis
-🛒 Revenue & Profitability Reporting
-📦 Inventory / Operations Analytics
-🔍 SQL Data Exploration Projects
+🧠 I enjoy solving business problems, identifying trends, and turning complex data into clear insights that drive smarter decisions.
 
-(Pinned repositories below showcase my work.)
+🚀 Long term, I’m focused on growing into advanced analytics, data engineering, and AI-enabled business intelligence.
 
-Background
+---
 
-With experience in finance and customer service, I bring a stakeholder-first mindset, strong communication skills, and analytical rigor—ensuring insights are not just accurate, but useful.
+## Current Focus
 
-Career Goal
+🔎 Searching for my first **Business Intelligence Analyst** opportunity  
+🤖 Interested in future-focused companies actively incorporating **AI and automation**  
+📚 Expanding skills in SQL, Python, Tableau, and Power BI  
+🛠️ Building portfolio projects that solve real business problems
 
-I’m working toward my first tech role in Data Analytics / Business Intelligence, with long-term growth into Data Science and Data Engineering.
-</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1SUW5Gl4z42GPZN0kKCXfDW67qWMalhT_xwzAYlULIZs/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=nwri722 alt=nwri722 /> </p>
+---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nwri722&show_icons=true&include_all_commits=true)](https://github.com/nwri722/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwri722&layout=compact)](https://github.com/nwri722/github-readme-stats)
+## Featured Projects
+
+### 📦 Returns Analysis Dashboard
+Built an end-to-end Tableau dashboard to uncover key drivers of returns across products, customers, and regions. Identified a 39% seasonal spike and delivered recommendations to improve profitability.
+
+### 🌱 Bee Zero Plastic Growth Analysis
+Analyzed Shopify and GA4 data to identify growth opportunities, improve digital performance, and support SEO/revenue strategy.
+
+---
+
+## Beyond Data
+
+🏊‍♂️ I enjoy swimming, backpacking, and spending time outdoors.
+
+🏕️ I recently hiked [🏞️ Havasupai Falls](1.jpg) and I’m already looking forward to the next adventure.
+
+🍳 Currently working on leveling up my cooking skills one meal at a time.
+
+---
+
+## Top Skills
+
+💻 SQL • Python • Tableau • Power BI • Business Intelligence • Data Analysis • Dashboarding • KPI Reporting • Financial Analysis
+
+---
+
+## Let's Connect
+
+📫 nicholaspwright@outlook.com  
+💼 https://linkedin.com/in/nicholaspaulwright
