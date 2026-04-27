@@ -1,17 +1,6 @@
-# Hi, I'm Nick Wright 👋
-<p align="left">
-  <a href="mailto:nicholaspwright@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nicholaspaulwright">
-    <img src="https://img.shields.io/badge/LinkedIn-Nick%20Wright-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/nwri722">
-    <img src="https://img.shields.io/badge/GitHub-nwri722-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-## About
+## Hey 👋, This is Nick Wright
+[![Gmail Badge](https://img.shields.io/badge/-nickw175@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nickw175@gmail.com)](mailto:nickw175@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-nicholaspaulwright-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholaspaulwright/)](https://www.linkedin.com/in/nicholaspaulwright/) [![Github Badge](https://img.shields.io/badge/-nwri722-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nwri722/)](https://www.github.com/nwri722/) <p align='left'>## About
 
 📊 I build data-driven systems that make performance visible—and decisions clear.
 
@@ -67,4 +56,9 @@ Analyzed Shopify and GA4 data to identify growth opportunities, improve digital 
 ## Let's Connect
 
 📫 nicholaspwright@outlook.com  
-💼 https://linkedin.com/in/nicholaspaulwright
+💼 https://linkedin.com/in/nicholaspaulwright</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1SUW5Gl4z42GPZN0kKCXfDW67qWMalhT_xwzAYlULIZs/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=nwri722 alt=nwri722 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nwri722&show_icons=true&include_all_commits=true)](https://github.com/nwri722/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwri722&layout=compact)](https://github.com/nwri722/github-readme-stats)
