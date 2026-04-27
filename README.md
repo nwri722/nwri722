@@ -39,7 +39,9 @@ Analyzed Shopify and GA4 data to identify growth opportunities, improve digital 
 
 🏊‍♂️ I enjoy swimming, backpacking, and spending time outdoors.
 
-🏕️ I recently hiked [🏞️ Havasupai Falls](1.jpg) and I’m already looking forward to the next adventure.
+🏕️ I recently hiked to **Havasupai Falls** in Arizona.
+
+[![View My Hike](./assets/havasupai.jpg)](./assets/havasupai.jpg)
 
 🍳 Currently working on leveling up my cooking skills one meal at a time.
 
