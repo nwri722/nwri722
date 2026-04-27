@@ -50,15 +50,3 @@ Analyzed Shopify and GA4 data to identify growth opportunities, improve digital 
 ## Top Skills
 
 💻 SQL • Python • Tableau • Power BI • Business Intelligence • Data Analysis • Dashboarding • KPI Reporting • Financial Analysis
-
----
-
-## Let's Connect
-
-📫 nicholaspwright@outlook.com  
-💼 https://linkedin.com/in/nicholaspaulwright</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1SUW5Gl4z42GPZN0kKCXfDW67qWMalhT_xwzAYlULIZs/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=nwri722 alt=nwri722 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nwri722&show_icons=true&include_all_commits=true)](https://github.com/nwri722/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwri722&layout=compact)](https://github.com/nwri722/github-readme-stats)
