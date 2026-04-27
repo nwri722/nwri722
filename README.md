@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Nick Wright, a Business Intelligence Analyst
-[![Gmail Badge](https://img.shields.io/badge/-nicholaspwright@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nicholaspwright@outlook.com)](mailto:nicholaspwright@outlook.com) 
+[![Email](https://img.shields.io/badge/Email-nicholaspwright@outlook.com-red?style=for-the-badge&logo=gmail)](mailto:nicholaspwright@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nicholaspaulwright-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholaspaulwright/)](https://www.linkedin.com/in/nicholaspaulwright/) [![Github Badge](https://img.shields.io/badge/-nwri722-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nwri722/)](https://www.github.com/nwri722/) <p align='left'>Hi there 👋 I'm Nick Wright
 
 I build data-driven systems that turn raw information into clear insights and measurable business results. My focus is helping organizations understand what’s working, what isn’t, and where to focus next through analytics, dashboards, and structured problem-solving.
